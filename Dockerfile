@@ -38,7 +38,7 @@ RUN apt-get -qq update && apt-get -qq install -y \
 	libxrender1 \
 	libxtst6 \
 	zlib1g \
-	debconf 
+	debconf \
 	npm \
 	libnotify \
 	libglu1-mesa-dev \
